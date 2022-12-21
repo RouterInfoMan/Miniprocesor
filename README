@@ -1,0 +1,7 @@
+1. Am facut o structura pentru instructiune si am facut niste
+functii pentru a transforma __uint32 -ul in instructiune
+2. Am scris un "parser" cu un buffer, cand se epuizeaza bitii din buffer,
+citeste urmatorul __uint16
+3. Acelasi cod ca la 2, am facut din prima sa fie compatibil cu truncheri
+peste __uint16-uri
+4. Implementare cu functii care rezolva o secventa de operatii de aceeasi prioritate

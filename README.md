@@ -134,7 +134,8 @@ Implementati precedenta operatilor, astfel incat * si / au precedenta egala intr
 Exemplu:
 
 Pentru + * - / si 1 2 3 4 5 vom avea 1 + 2*3 - 4/5 = 1 + 6 - 0 = 7 
-```Precizari:
+```
+Precizari:
 
 - Acest task se va rezolva in fisierul task4.c.
 
